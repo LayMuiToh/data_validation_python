@@ -1,0 +1,11 @@
+# master_sheet: the master sheet with Serial Number and the configuration
+# new_sheet: use a new sheet name if you do not want to overwrite the master_sheet
+# config_sheet: the configuration to validate against
+
+[xxx]
+master_sheet=Master_HEX
+new_sheet=Master_HEX_New
+config_sheet=_Master_Data
+master_serial_number=Serial_Number
+
+
